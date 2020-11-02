@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d90b9c44-2916-405a-baa0-2b0f99f5c2bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iUx7A57s4n0Bl2t6yo33GAx6Ar" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d90b9c44-2916-405a-baa0-2b0f99f5c2bf" name="Default Changelist" comment="" />
+      <created>1601975801645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601975801645</updated>
+      <workItem from="1601975803129" duration="21474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="610" y="0" key="#PHP" timestamp="1601978133528">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="610" y="0" key="#PHP/0.0.1280.800@0.0.1280.800" timestamp="1601978133528" />
+    <state x="722" y="72" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601976564779">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="722" y="72" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.800@0.0.1280.800" timestamp="1601976564779" />
+    <state x="458" y="330" key="NewPhpFileDialog" timestamp="1602020573326">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="458" y="330" key="NewPhpFileDialog/0.0.1280.800@0.0.1280.800" timestamp="1602020573326" />
+    <state x="625" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1602020527969">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="625" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1602020527969" />
+  </component>
+</project>
